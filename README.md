@@ -1,16 +1,23 @@
-## Hi there 👋
+#  Hi, I'm Md. Khalid Hossain! 👋 
 
-<!--
-**MKhalidHossain/MKhalidHossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a bangladeshi developer experimenting with [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).  
+Don't hesitate to reach out if you struggle with the content of one of my repositories
 
-Here are some ideas to get you started:
+I have developed various applications, NewsApp, WeatherApp, FitnessApp using API also bookshopApp using Frirebase and a good clean design and architecture.  
+My varied set of skills allow me to offer the most adapted solution to an encountered problem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My experience extends from the design of mobile applications to their production.
+‣ I advise on technical choices.  
+‣ I design architecture.   
+‣ I develop your application.   
+‣ I integrat APIs & Firebase.   
+‣ I design responsive UI.   
+
+
+Learn more about me:  
+📝 You can find me writing tech articles on [Dev.to](https://dev.to/khalid_hossain017).  
+🤝 Or maybe making new contacts on [LinkedIn](https://linkedin.com/in/md-khalidhossain).   
+💌 Got a question? Send me an email at **hossainkhalid93@gmail.com**. or contact me on WhatsApp: **01773732889**
+
+
+ 
