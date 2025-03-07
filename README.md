@@ -6,7 +6,7 @@ Don't hesitate to reach out if you struggle with the content of one of my reposi
 I have developed various applications, NewsApp, WeatherApp, FitnessApp using API also bookshopApp using Frirebase and a good clean design and architecture.  
 My varied set of skills allow me to offer the most adapted solution to an encountered problem.
 
-My experience extends from the design of mobile applications to their production.
+My experience extends from the design of mobile applications to their production.  
 ‣ I advise on technical choices.  
 ‣ I design architecture.   
 ‣ I develop your application.   
