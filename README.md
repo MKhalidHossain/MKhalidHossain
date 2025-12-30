@@ -1,5 +1,13 @@
 #  Hi, I'm Md. Khalid Hossain! 👋 
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Khalid+Hossain;Professional+Flutter+App+Developer;I+build+production-ready+Flutter+apps"
+    alt="Typing SVG"
+  />
+</p>
+
+
 I'm a bangladeshi developer experimenting with [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).  
 Don't hesitate to reach out if you struggle with the content of one of my repositories
 
