@@ -8,6 +8,16 @@
 </p>
 
 
+<!-- Visitor and GitHub Badges -->
+<p align="center">
+  <a href="https://github.com/MKhalidHossain">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=noyon-360.noyon-360" alt="Visitor Badge" />
+  <!-- </a>
+  <a href="https://github.com/MKhalidHossain?tab=followers">
+    <img src="https://img.shields.io/github/followers/noyon-360.svg?style=social&label=Follow" alt="GitHub Followers" />
+  </a> -->
+</p>
+
 
 ## About Me
 
