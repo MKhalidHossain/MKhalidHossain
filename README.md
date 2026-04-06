@@ -22,7 +22,7 @@
 ## About Me
 
 I’m Khalid Hossain, a Flutter App Developer focused on building real,  
-production-ready mobile applications.
+production ready mobile applications.
 
 I work across the entire app lifecycle including UI development,  
 state management, API integration, and deployment for Android and iOS.
@@ -33,9 +33,9 @@ and apps that can be shipped with confidence.
 ##  What I Build
 
 - Cross-platform mobile applications using Flutter  
-- Backend-driven apps with Firebase, REST APIs, and Node.js  
+- Backend driven apps with Firebase, REST APIs, and Node.js  
 - Clean, maintainable architectures designed to scale  
-- Production-ready UI implemented from design to final build  
+- Production ready UI implemented from design to final build  
 - Features built for real users, not just demos  
 
 ##  Tech Stack
