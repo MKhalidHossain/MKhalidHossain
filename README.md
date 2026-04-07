@@ -8,13 +8,9 @@
 </p>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MKhalidHossain&show_icons=true&theme=dark&hide_border=true)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKhalidHossain&layout=compact&theme=dark&hide_border=true)
-
-
-![Streak](https://streak-stats.demolab.com?user=MKhalidHossain&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MKhalidHossain&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
 
