@@ -71,7 +71,7 @@ it's either well-written Flutter code or a little bit of luck 😄
     <img src="https://img.shields.io/badge/GitHub-MKhalidHossain-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:hossainkhalid93@gmail.com">
+  <a href="mailto:contact.khalidhossain@gmail.com">
     <img src="https://img.shields.io/badge/Email-hossainkhalid93@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;
